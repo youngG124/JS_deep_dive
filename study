@@ -2,3 +2,6 @@
 1999 - ecmascript3
 2009 - ecmascript5 (es5)
 2015 - ecmascript6
+
+variable hoisting
+변수 선언과 값의 할당은 다른 시점에 이뤄짐..
